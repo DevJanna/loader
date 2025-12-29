@@ -34,6 +34,14 @@ var BoxesBR = []BoxBR{
 		},
 	},
 	{
+		ID:   "L3Q7718O",
+		Path: "HoDaBang_TramDoMN+MoCong",
+		Metrics: []Metric{
+			{Code: "WAU", Name: "MNH_DaBan"},
+			{Code: "DR1", Name: "modbus_param_0"},
+		},
+	},
+	{
 		ID:   "45J68MTA",
 		Path: "HoXuyenMoc_TramDoMN+MoCong",
 		Metrics: []Metric{
