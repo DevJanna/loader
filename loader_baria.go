@@ -45,7 +45,7 @@ var BoxesBR = []BoxBR{
 		ID:   "45J68MTA",
 		Path: "HoXuyenMoc_TramDoMN+MoCong",
 		Metrics: []Metric{
-			{Code: "WAU", Name: "MNH_XuyenMoc"},
+			{Code: "WAU", Name: "MNH"},
 			{Code: "DR1", Name: "Domocong_0"},
 		},
 	},
