@@ -22,7 +22,7 @@ var BoxesBR = []BoxBR{
 		ID:   "S83FIGA0",
 		Path: "HoSongRay_KenhSongRay",
 		Metrics: []Metric{
-			{Code: "WAU", Name: "MNK_SongRay"},
+			{Code: "WAU", Name: "MNK"},
 			{Code: "DR1", Name: "Domocong"},
 		},
 	},
@@ -30,15 +30,15 @@ var BoxesBR = []BoxBR{
 		ID:   "A3M6KKN6",
 		Path: "HoSongRay_HaLuu",
 		Metrics: []Metric{
-			{Code: "WAD", Name: "MNHL_SongRay"},
+			{Code: "WAD", Name: "MNH"},
 		},
 	},
 	{
 		ID:   "L3Q7718O",
 		Path: "HoDaBang_TramDoMN+MoCong",
 		Metrics: []Metric{
-			{Code: "WAU", Name: "MNH_DaBan"},
-			{Code: "DR1", Name: "modbus_param_0"},
+			{Code: "WAU", Name: "MNH"},
+			{Code: "DR1", Name: "Domocong_0"},
 		},
 	},
 	{
@@ -53,8 +53,8 @@ var BoxesBR = []BoxBR{
 		ID:   "V51HBHL0",
 		Path: "HoSuoiCac_TramDoMN+MoCong",
 		Metrics: []Metric{
-			{Code: "WAU", Name: "MNH_SuoiCac"},
-			{Code: "DR1", Name: "Domocong_SuoiCac_0"},
+			{Code: "WAU", Name: "MNH"},
+			{Code: "DR1", Name: "Domocong_0"},
 		},
 	},
 	{
