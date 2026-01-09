@@ -71,6 +71,14 @@ var BoxesBR = []BoxBR{
 			{Code: "WAU", Name: "MNH_KimLong"},
 		},
 	},
+	{
+		ID:   "JRUTJ9KX",
+		Path: "HoChauPha",
+		Metrics: []Metric{
+			{Code: "WAU", Name: "MNH_ChauPha"},
+			{Code: "DR1", Name: "Domocong"},
+		},
+	},
 }
 
 //
