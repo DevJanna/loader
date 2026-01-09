@@ -38,7 +38,7 @@ var BoxesBR = []BoxBR{
 		Path: "HoDaBang_TramDoMN+MoCong",
 		Metrics: []Metric{
 			{Code: "WAU", Name: "MNH"},
-			{Code: "DR1", Name: "Domocong_0"},
+			{Code: "DR1", Name: "Domocong"},
 		},
 	},
 	{
